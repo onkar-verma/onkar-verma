@@ -46,7 +46,7 @@ Here are some of the tools and technologies I work with:
 ## 🌐 Let's Connect!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/onkar-verma">
+  <a href="https://www.linkedin.com/in/onkarverma/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:onkarverma096@gmail.com">
