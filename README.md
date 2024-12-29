@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about cr
 
 Here are some of the tools and technologies I work with:
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -35,7 +35,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=onkar-verma&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkar-verma&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkar-verma&layout=compact&theme=radical" alt="Top Languages" />
@@ -45,7 +45,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🌐 Let's Connect!
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/onkar-verma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
