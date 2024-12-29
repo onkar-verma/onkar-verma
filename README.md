@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Onkar Verma 👋
 
-<!--
-**onkar-verma/onkar-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about crafting interactive and scalable web applications. Alongside my development journey, I am currently diving deep into **Data Structures and Algorithms (DSA)** using Java, further enhancing my problem-solving skills and understanding of core programming concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💼 **Full Stack Developer**
+- ✨ Currently Learning **DSA with Java** to sharpen my algorithmic thinking
+- ✨ Completed **Full Stack Web Development Course** at [Apna College](https://www.apnacollege.in/)
+- 🎓 Pursuing **Bachelor's in Computer Applications (BCA)** from **KIIT University**
+
+---
+
+## 🛠️ Tools and Languages
+
+Here are some of the tools and technologies I work with:
+
+| **Languages**    | **Frontend**         | **Backend**          | **Tools**            |
+|-------------------|----------------------|----------------------|----------------------|
+| HTML             | React               | Node.js             | Git/GitHub          |
+| CSS              | Bootstrap           | Express.js          | Nodemailer          |
+| JavaScript       | Tailwind CSS        | MongoDB             | JWT Authentication  |
+| Java             |                     |                     |                     |
+| C                |                     |                     |                     |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onkarverma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onkarverma&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarverma&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onkarverma/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://onkarverma.github.io/portfolio)
+
+---
+
+### ✨ "Code is like humor. When you have to explain it, it’s bad."
