@@ -43,12 +43,17 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onkarverma/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white)](https://onkarverma.github.io/portfolio)
-📧 **Email**: onkarverma096@gmail.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/onkar-verma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:onkarverma096@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-### ✨ "Code is like humor. When you have to explain it, it’s bad."
+### ✨ "Explore my projects and join me on this journey of innovation and learning! 🚀"
