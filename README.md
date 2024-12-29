@@ -12,18 +12,24 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about cr
 - 🎓 Pursuing **Bachelor's in Computer Applications (BCA)** from **KIIT University**
 
 ---
-
 ## 🛠️ Tools and Languages
 
 Here are some of the tools and technologies I work with:
 
-| **Languages**    | **Frontend**         | **Backend**          | **Tools**            |
-|-------------------|----------------------|----------------------|----------------------|
-| HTML             | React               | Node.js             | Git/GitHub          |
-| CSS              | Bootstrap           | Express.js          | Nodemailer          |
-| JavaScript       | Tailwind CSS        | MongoDB             | JWT Authentication  |
-| Java             |                     |                     |                     |
-| C                |                     |                     |                     |
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</div>
 
 ---
 
